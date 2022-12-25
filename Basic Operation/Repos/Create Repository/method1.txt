@@ -1,0 +1,15 @@
+How to create a new empty repository in GitHub?
+There are sveral ways to create create a new empty repository in GitHub.
+In this article, I will talk the simplest way.
+
+Step 1:
+Click the right top icon.
+
+Step 2:
+Select "New Repository" option in menu bar.
+
+Step 3:
+Fill in the repository name and some information.
+
+Step 4:
+Click "Create Repository" button (in the bottom).
