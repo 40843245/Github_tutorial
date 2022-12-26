@@ -3,7 +3,8 @@ There are sveral ways to create create a new empty repository in GitHub.
 In this article, I will talk the simplest way.
 
 Step 1:
-Click the right top icon.
+//Click the right top icon. (wrong)
+Click the plus icon on right top.
 
 Step 2:
 Select "New Repository" option in menu bar.
