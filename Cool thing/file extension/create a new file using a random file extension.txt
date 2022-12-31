@@ -1,0 +1,7 @@
+In this article, I will tell you:
+If you create a new file using a new file with random file extension in repos in GitHub, what happens?
+Such as create a new file named
+test1.qwertyuy
+
+The answer is 
+creating a new file as usual.
