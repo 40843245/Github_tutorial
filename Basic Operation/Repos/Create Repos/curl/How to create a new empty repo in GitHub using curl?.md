@@ -30,9 +30,7 @@ curl -H "X-you-and-me: yes" www.love.com
 (2.3)The argument -X, --request <method>
 will use the <method> method to handle server requests.
   
-<img src=
-"https://github.com/40843245/Github_tutorial/blob/main/Basic%20Operation/Repos/Create%20Repos/CurlMan1.png"
->
+<img src="https://github.com/40843245/Github_tutorial/blob/main/Basic%20Operation/Repos/Create%20Repos/CurlMan1.png">
 
 # Ref
 (1)How to create a repository of GitHub in Git Bash?
