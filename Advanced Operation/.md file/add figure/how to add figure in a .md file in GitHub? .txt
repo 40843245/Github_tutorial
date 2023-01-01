@@ -17,6 +17,8 @@ Use html language.
 
 ---------------------------------------------------------
 Ref:
+(1)
 https://ourcodeworld.com/articles/read/162/tips-and-tricks-that-you-probably-don-t-know-with-the-github-markdown-in-readme-md-files
-
+(2)
+https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
 
