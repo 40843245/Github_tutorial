@@ -1,0 +1,22 @@
+Objectives:
+In this article, I will teach you:
+How to add a figure in a .md file in GitHub?
+
+---------------------------------------------------------
+Method:
+There are two ways.
+method 1:
+Use markdown language.
+Such as 
+![Alt text]
+(https://github.com/40843245/Python_Application/blob/main/Python/Convert%20Python%20to%20Excel/xlsxwriter/memory%20management/constant_memory%20_Performance.png)
+
+method 2:
+Use html language.
+<img src="https://github.com/40843245/Python_Application/blob/main/Python/Convert%20Python%20to%20Excel/xlsxwriter/memory%20management/constant_memory%20_Performance.png" title="Github Logo">
+
+---------------------------------------------------------
+Ref:
+https://ourcodeworld.com/articles/read/162/tips-and-tricks-that-you-probably-don-t-know-with-the-github-markdown-in-readme-md-files
+
+
