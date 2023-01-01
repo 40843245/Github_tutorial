@@ -1,0 +1,28 @@
+Objectives
+I will teach you:
+How to delete repos of GitHub using GitHub CLI?
+-------------------------------------------------
+Preparation
+Check GitHub CLI is installed.
+-------------------------------------------------
+Step 1:
+Open Terminal.
+Step 2:
+If you don't login, please login first.
+To login, type
+gh auth login
+Step 3:
+If you are NOT in administrator, please request the gh in delete_repo scope.
+request the gh in delete_repo scope in terminal, type
+gh auth refresh -h github.com -s delete_repo
+Step 4:
+To delete a repos, type
+gh repo delete <YOUR_REPO> [flag]
+Step 5:
+Type sometext in terminal to confirm deletion (if needed).
+
+P.S.
+flag can be --confirm which refers deletion with confirm.
+-------------------------------------------------
+[ref]
+https://docs.github.com/en/rest/repos/repos?apiVersion=2022-11-28#delete-a-repository
