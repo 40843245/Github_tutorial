@@ -1,0 +1,21 @@
+In this article, I will discuss:
+How to create a new empty repo in GitHub using GitHub API?
+----------------------------------------
+Preparation:
+(1.1)Check the GitHub API is installed.
+You can type gh --version in terminal to check the version of GitHub API and it is installed.
+
+----------------------------------------
+It simple.
+Step 1:
+Open Terminal.
+Step 2:
+Type 
+gh repo create.
+Step 3:
+Fill the information required.
+Step 4:
+That's done.
+----------------------------------------
+[ref]
+https://cli.github.com/manual/gh_repo
