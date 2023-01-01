@@ -1,0 +1,21 @@
+There are  many ways to change account in GitHub.
+-----------------------------------------------
+Step 1:
+Open GitHub.
+Step 2:
+In the upper-right corner of any page, click your profile photo, then click Settings.
+Step 3:
+In the left sidebar, click  Account.
+Step 4:
+In the "Change username" section, click Change username.
+Step 5:
+Read the warnings about changing your username. 
+If you still want to change your username, click I understand, let's change my username.
+Step 6:
+Type a new username.
+Step 7:
+If the username you've chosen is available, click Change my username. 
+If the username you've chosen is unavailable, you can try a different username or one of the suggestions you see.
+-----------------------------------------------
+[ref]
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/changing-your-github-username
