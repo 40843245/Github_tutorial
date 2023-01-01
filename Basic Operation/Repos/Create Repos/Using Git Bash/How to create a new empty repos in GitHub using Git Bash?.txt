@@ -1,0 +1,11 @@
+In this article,I will disccuss about:
+How to create a new empty repos in GitHub using Git Bash?
+----------------------------------------
+There are NO way to a new empty repos in GitHub using Git Bash 
+since GitHub and Git Bash are different things.
+GitHub is a platform that let you host and collaborate your code on it.
+While Git Bash is a tool for version control of GitHub.
+
+----------------------------------------
+[ref]
+https://stackoverflow.com/questions/11693288/how-to-create-a-new-repo-at-github-using-git-bash
