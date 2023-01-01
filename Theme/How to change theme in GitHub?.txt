@@ -1,0 +1,13 @@
+Step 1:
+Open GitHub.
+Step 2:
+Click your icon.
+Step 3:
+Select settings.
+Step 4:
+Select Appearance.
+Step 5:
+Select theme in theme reference section.
+----------------------------------------------
+[ref]
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-theme-settings
