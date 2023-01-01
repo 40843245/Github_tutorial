@@ -1,0 +1,13 @@
+
+-----------------------------------------------
+Step 1:
+Open GitHub.
+Step 2:
+In GitHub, in the upper-right corner of any page, click your profile photo, then click Settings.
+Step 3:
+In the left sidebar, click  Appearance.
+Step 4:
+Under "Tab size preference", select the drop-down menu and choose your preference.
+-----------------------------------------------
+[ref]
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-tab-size-rendering-preference
