@@ -1,0 +1,14 @@
+Objectives.
+How to show status of relevant issues using GitHub CLI?
+---------------------------------------------
+Step 1:
+Open GitHub CLI.
+Step 2:
+Check you login. If NOT login, please login first.
+Step 3:
+In terminal, type
+gh issue status [option]
+For the [option], see the following link.
+---------------------------------------------
+Ref:
+https://cli.github.com/manual/gh_issue_status
