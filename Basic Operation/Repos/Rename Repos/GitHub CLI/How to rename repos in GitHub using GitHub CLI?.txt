@@ -12,8 +12,8 @@ gh repo rename <NEW_REPO_NAME> [option]
 where
 The argument [option] refers the options can be used.
 [option] can be 
-(1)--confirm which refers skip confirmation.
-(2)-R [Host/]Owner/Repos
+(1)-y,--confirm which refers skip confirmation.
+(2)-R, --repo [Host/]Owner/Repos
 it refers the repos you want to rename.
 If it is NOT given, the current repos will be renamed.
 ------------------------------------------------
