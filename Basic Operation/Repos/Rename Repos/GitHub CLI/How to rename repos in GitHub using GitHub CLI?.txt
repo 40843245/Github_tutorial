@@ -1,0 +1,21 @@
+Objectives.
+How to rename repos in GitHub using GitHub CLI?
+------------------------------------------------
+Step 1:
+Open terminal.
+Step 2:
+If you don't login, please login first.
+Step 3:
+In terminal, type
+gh repo rename <NEW_REPO_NAME> [option]
+
+where
+The argument [option] refers the options can be used.
+[option] can be 
+(1)--confirm which refers skip confirmation.
+(2)-R [Host/]Owner/Repos
+it refers the repos you want to rename.
+If it is NOT given, the current repos will be renamed.
+------------------------------------------------
+Ref
+https://cli.github.com/manual/gh_repo_rename
