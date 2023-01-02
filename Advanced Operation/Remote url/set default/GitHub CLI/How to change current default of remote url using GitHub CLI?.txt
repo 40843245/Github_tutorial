@@ -1,0 +1,18 @@
+Objectives:
+How to change current default of remote url using GitHub CLI?
+----------------------------------------
+Step 1:
+Open terminal.
+Step 2:
+Check login. If NOT login, please login first.
+Step 3:
+In terminal, type
+git remote set-url [URL-NAME] [GIT-URL]
+where 
+The argument [URL-NAME] is the name of url you want to set as default.
+And the argument [GIT-URL] must end with.git which refers [URL-NAME] points to.
+
+In this example,
+git remote set-url origin https://github.com/40843245/test4.git
+I will set the url called "origin" and connects "origin" to "https://github.com/40843245/test4.git".
+
