@@ -1,0 +1,9 @@
+Objectives.
+How to create issues of repos in GitHub?
+-------------------------------------------------
+Step 1:
+Open GitHub.
+Step 2:
+Select Issues (on the menu bar).
+Step 3:
+That's done.
