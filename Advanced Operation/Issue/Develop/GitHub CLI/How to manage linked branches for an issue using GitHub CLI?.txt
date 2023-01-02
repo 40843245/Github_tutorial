@@ -1,0 +1,16 @@
+Objectives.
+How to manage linked branches for an issue using GitHub CLI?
+--------------------------------------------
+Step 1:
+Open terminal.
+Step 2:
+Check login. If NOT login, please login first.
+Step 3:
+In terminal, type
+gh issue develop [option] {<INDEX-NUMBER>|<ISSUE-URL>}
+where
+The argument <INDEX-NUMBER> refers the index of the issue that you want to develop .
+The argument <ISSUE-URL> refers the url of the issue that you want to develop.
+--------------------------------------------
+Ref:
+https://cli.github.com/manual/gh_issue_develop
