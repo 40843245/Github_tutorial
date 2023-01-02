@@ -1,5 +1,5 @@
 Objectives.
-How to execute   gh extensions using GitHub CLI?
+How to execute gh extensions using GitHub CLI?
 -----------------------------------------
 Step 1:
 Open Terminal.
@@ -23,4 +23,4 @@ hello.exe 1 2 3 4
 
 -----------------------------------------
 Ref:
-https://cli.github.com/manual/gh_extension_install
+https://cli.github.com/manual/gh_extension_exec
