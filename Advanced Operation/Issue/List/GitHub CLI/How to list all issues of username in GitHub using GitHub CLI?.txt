@@ -1,0 +1,14 @@
+Objectives.
+How to list all issues of username in GitHub using GitHub CLI?
+-------------------------------------------------
+Step 1:
+Open GitHub CLI.
+Step 2:
+Check you login. If NOT login, please login first.
+Step 3:
+To list all issues, type either one of following.
+gh issue list [option]
+
+-------------------------------------------------
+Ref:
+https://cli.github.com/manual/gh_issue_list
