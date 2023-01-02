@@ -1,0 +1,26 @@
+Objectives.
+How to view  an issue to a repo using GitHub CLI?
+--------------------------------------------
+Step 1:
+Open terminal.
+Step 2:
+Check login. If NOT login, please login first.
+Step 3:
+In terminal, type
+gh issue view  {<INDEX-NUMBER>|<ISSUE-URL>} [option]
+where
+The argument <INDEX-NUMBER> refers the index of the issue that you want to view.
+The argument <ISSUE-URL> refers the url of the issue that you want to view.
+The argument [option] can contain:
+(1.1)-c, --comments:
+View issue comments.
+(1.2)-q, --jq <EXPR>:
+Filter JSON output using a jq expression <EXPR>
+(1.3)-t, --template <string>:
+Format JSON output using a Go template with <string> we specified.
+(1.4)-w, --web:
+Open an issue in the browser instead of in terminal.
+
+--------------------------------------------
+Ref:
+https://cli.github.com/manual/gh_issue_view
