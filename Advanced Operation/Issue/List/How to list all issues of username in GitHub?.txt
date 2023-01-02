@@ -1,5 +1,5 @@
 Objectives.
-How to create issues of repos in GitHub?
+How to list all issues of username in GitHub?
 -------------------------------------------------
 Step 1:
 Open GitHub.
