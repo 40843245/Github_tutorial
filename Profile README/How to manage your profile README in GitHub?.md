@@ -36,5 +36,10 @@ Step 7:
 That's done.
 
 You can edit README by click "Edit README" button above the right sidebar.
+# To remove README.md in your personal profile
+Just break one or more of these requirements (mentioned above).
+Such as 
+setting the repository as private.
+
 # REF
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
