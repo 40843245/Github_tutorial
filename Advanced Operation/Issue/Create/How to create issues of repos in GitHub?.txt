@@ -1,0 +1,17 @@
+Objectives.
+How to create issues of repos in GitHub?
+-------------------------------------------------
+Step 1:
+Select the repos.
+Step 2:
+Select Issues (on the menu bar).
+Step 3:
+Click "New Issue" button.
+Step 4:
+Fill in the information.
+Title is required.
+Description is optional.
+Step 5:
+Click "Submit New Issue" button.
+Step 6:
+That's done.
