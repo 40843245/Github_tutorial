@@ -1,0 +1,19 @@
+Objectives.
+How to change default repo for GitHub using GitHub CLI?
+------------------------------------------
+Step 1:
+Open terminal.
+Step 2:
+Check you login. If NOT login, please login first.
+Step 3:
+Check there is connection between the repo and remote url.
+If there is NO connection, you can type these command in terminal.
+git remote set-url [URL-NAME] [GIT-URL]
+For more examples, see the link
+https://github.com/40843245/Github_tutorial/blob/main/Advanced%20Operation/Remote%20url/set%20default/GitHub%20CLI/How%20to%20change%20current%20default%20of%20remote%20url%20using%20GitHub%20CLI%3F.txt
+Step 4:
+In terminal, type
+gh repo set-default [GIT-URL]
+where
+The argument must ends with .git which set the repos to default.
+
