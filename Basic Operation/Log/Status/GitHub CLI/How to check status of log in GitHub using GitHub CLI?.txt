@@ -1,0 +1,21 @@
+Objectives.
+How to check status of log in GitHub using GitHub CLI?
+-----------------------------------------------------
+Step 1:
+Open terminal.
+Step 2:
+In terminal, type 
+gh auth status [option]
+where
+The argument can be 
+-h,--hostname <HOST-NAME>
+-t,--show-token 
+
+If the <HOST-NAME> is NOT given, it will check status of current host.
+If it is given, it will check status of <HOST-NAME>
+
+If -t or --shown-token is typed, the token will be displayed.
+Otherwise, the token will NOT be displayed.
+-----------------------------------------------------
+Ref
+https://cli.github.com/manual/gh_auth_status
