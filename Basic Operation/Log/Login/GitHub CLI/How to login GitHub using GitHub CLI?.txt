@@ -1,0 +1,15 @@
+Objectives.
+How to login GitHub using GitHub CLI?
+--------------------------------------------
+Step 1:
+Open terminal.
+Step 2:
+In terminal, 
+type gh auth login.
+Step 3:
+Finish the setting in terminal.
+Step 4:
+That's done.
+--------------------------------------------
+Ref
+https://cli.github.com/manual/gh_auth_login
