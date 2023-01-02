@@ -25,6 +25,7 @@ Check you login. If NOT login, please login first.
 Step 3:
 Check the current remote url is selected.
 If NOT selected, please select the current remote url.
+To select the current remote url, you can see my articles.
 Step 4:
 To create a new issue, type either one of following.
 gh issue create [option_list]
@@ -45,8 +46,10 @@ If either --title <TITLE-NAME> or --body <CONTENT> or both is NOT speficied,
 the terminal will ask you what's next after asking the information (after asking <TITLE-NAME> and <CONTENT>).
   (1.3.1)In this request, you can select "Continue in web browser". Then the issue page will be opened in web browser, 
   with the information you just type. Instead of create a new issue in terminal.
+  The figure in GitHub (given in the following link) illustrate possible result if you can select "Continue in web browser".
+  https://github.com/40843245/Github_tutorial/blob/main/Advanced%20Operation/Issue/Create/CreateIssue1.png
     In this situation, if you want to create a new issue, you must click "Submit Button" in web browser.
-  
+    
   (1.3.2)In this request, you can also select "Continue" to create a new issue in terminal.
 
 NOTE:
