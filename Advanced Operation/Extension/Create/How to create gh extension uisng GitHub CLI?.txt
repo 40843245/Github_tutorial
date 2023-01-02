@@ -1,0 +1,34 @@
+Objectives.
+How to create gh extensions using GitHub CLI?
+-----------------------------------------
+Step 1:
+Open Terminal.
+Step 2:
+Check login. If NOT login, please login first.
+Step 3:
+In terminal, type
+gh extension create [<NAME>] [option]
+where
+The argument [<NAME>] is your extension name you for creation.
+The argument [option] can be 
+--precompiled <string> 
+which refer create a precompiled extension. 
+Accepted values: go, other
+
+-----------------------------------------
+Examples:
+# Use interactively
+gh extension create
+
+# Create a script-based extension
+gh extension create foobar
+
+# Create a Go extension
+gh extension create --precompiled=go foobar
+
+# Create a non-Go precompiled extension
+gh extension create --precompiled=other foobar
+
+-----------------------------------------
+Ref:
+https://cli.github.com/manual/gh_extension_create
