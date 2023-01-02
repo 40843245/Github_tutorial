@@ -1,0 +1,17 @@
+Objectives.
+How to edit content of an issue using GitHub CLI?
+-----------------------------------------------
+Step 1:
+Open terminal.
+Step 2:
+Check login. If NOT login, please login first.
+Step 3:
+In terminal, type
+gh issue delete {<INDEX-NUMBER>|<ISSUE-URL>} [option]
+where
+The argument <INDEX-NUMBER> refers the index of the issue that you want to delete.
+The argument <ISSUE-URL> refers the url of the issue that you want to delete.
+For the argument [option], see the following link.
+-----------------------------------------------
+Ref:
+https://cli.github.com/manual/gh_issue_edit
