@@ -7,10 +7,10 @@ Step 2:
 Check login. If NOT login, please login first.
 Step 3:
 In terminal, type
-gh issue delete {<INDEX-NUMBER>|<ISSUE-URL>} [option]
+gh issue edit {<INDEX-NUMBER>|<ISSUE-URL>} [option]
 where
-The argument <INDEX-NUMBER> refers the index of the issue that you want to delete.
-The argument <ISSUE-URL> refers the url of the issue that you want to delete.
+The argument <INDEX-NUMBER> refers the index of the issue that you want to edit.
+The argument <ISSUE-URL> refers the url of the issue that you want to edit.
 For the argument [option], see the following link.
 -----------------------------------------------
 Ref:
