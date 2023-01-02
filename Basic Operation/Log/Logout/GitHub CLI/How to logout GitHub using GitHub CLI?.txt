@@ -1,0 +1,19 @@
+Objectives.
+How to logout GitHub using GitHub CLI?
+-----------------------------------------
+Step 1:
+Open terminal.
+Step 2:
+In terminal, type
+gh auth logout [option]
+where 
+The argument [option] can be
+-h, --hostname <HOST-NAME>
+If the <HOST-NAME> is NOT given, the current host will be logout.
+If it is given, the given host which its name is <HOST-NAME> will be logout.
+
+Step 3:
+That's done.
+-----------------------------------------
+Ref
+https://cli.github.com/manual/gh_auth_logout
