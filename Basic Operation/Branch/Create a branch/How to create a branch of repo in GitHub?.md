@@ -28,6 +28,7 @@ You can do either one of following.
 (1.2)Select your branch which is just left to "branch".
 And Select branch. Then click the "view branches" link.
 The following figure illustrates (1.2) in the Step 3.
-<img scr="https://github.com/40843245/Github_tutorial/blob/main/Basic%20Operation/BranchRepo.png">
+
+<img src="https://github.com/40843245/Github_tutorial/blob/main/Basic%20Operation/BranchRepo.png">
 # Ref
 https://www.howtogeek.com/714112/how-to-create-a-new-branch-in-github/#:~:text=A%20branch%2C%20at%20its%20most%20basic%2C%20is%20a,main%20container%20where%20your%20production%20code%20is%20stored.
