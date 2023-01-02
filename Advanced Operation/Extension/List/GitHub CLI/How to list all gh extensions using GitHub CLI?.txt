@@ -1,0 +1,11 @@
+Objectives.
+How to list all gh extensions using GitHub CLI?
+-------------------------------
+Step 1:
+Open terminal.
+Step 2:
+In terminal, type
+gh extension list
+-------------------------------
+Ref:
+https://cli.github.com/manual/gh_extension_list
