@@ -19,7 +19,7 @@ Step 4:
 Select your codespace.
 
 Step 5:
-Click "rename" button.
+Nagivate to "..." and select "rename" in menu bar.
 
 Step 6:
 Fill in information.
