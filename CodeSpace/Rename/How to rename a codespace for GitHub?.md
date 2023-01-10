@@ -28,7 +28,7 @@ Step 7:
 Click "ok" button.
 
 <img src="https://github.com/40843245/Github_tutorial/blob/main/CodeSpace/Rename/RenameCodespace1.jpg">
-
+ 
 # Ref
 ## See all available codespace
 https://github.com/codespaces
