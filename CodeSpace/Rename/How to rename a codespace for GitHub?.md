@@ -60,4 +60,4 @@ where
 https://github.com/codespaces
 ## GitHub Docs
 https://docs.github.com/en/codespaces/customizing-your-codespace/renaming-a-codespace
-
+https://docs.github.com/en/codespaces/customizing-your-codespace/renaming-a-codespace?tool=cli
