@@ -15,3 +15,5 @@ Step 5:
 Fill in information.
 Step 6:
 Click "ok" button.
+
+<img src="https://github.com/40843245/Github_tutorial/blob/main/CodeSpace/Rename/RenameCodespace1.jpg">
