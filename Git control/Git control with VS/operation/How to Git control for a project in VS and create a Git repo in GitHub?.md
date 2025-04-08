@@ -63,3 +63,4 @@ To check the repo is built
 > **NEVER** reload the web page in GitHub to make any changes in GitHub take effect.
 
 ## demo
+See [Demo of git control for a project in VS and create Git repo in Github?](https://youtu.be/FR8kT1qm37o)
