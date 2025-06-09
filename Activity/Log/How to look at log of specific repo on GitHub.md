@@ -56,3 +56,5 @@ Here, I find the node that is in same branch than current branch.
 
 Thus, I see the following figure.
 
+![image](https://github.com/user-attachments/assets/8d8dd5e0-3160-4898-8df1-d69a84871ee7)
+
