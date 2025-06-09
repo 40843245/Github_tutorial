@@ -58,3 +58,8 @@ Thus, I see the following figure.
 
 ![image](https://github.com/user-attachments/assets/8d8dd5e0-3160-4898-8df1-d69a84871ee7)
 
+  - Clicking the clipboard icon will copy the old SHA of that node.
+  - Click the commit id button will see the detailed view of that node. As following figure.
+    
+    <img width="959" alt="image" src="https://github.com/user-attachments/assets/ea93ec1c-28d9-45ba-8f48-31cb82c2b6b2" />
+
