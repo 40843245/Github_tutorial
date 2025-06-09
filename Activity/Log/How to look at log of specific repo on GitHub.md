@@ -23,20 +23,35 @@ Next, click hamburger icon.
 
 Then, click `Compare Changes`.
 
+After that you can see 
+
++ Use Case 1:
+
+Finding the node that is in different branch than current branch.
+  
+Here, I find the desired node on different branch.
+
+Thus I see the following of figure.
+
 ![image](https://github.com/user-attachments/assets/4c6c438e-4820-4f2b-9760-8d88cfc4c82c)
 
-Step 4:
+Including these info
 
-Then you can see the info of specific node. Including
+  - file changes overview
+  - files changes bulk
+  - commit id
+  - commit description
+  - author name
+  - etc
 
-+ file changes overview
-+ files changes bulk
-+ commit id
-+ commit description
-+ author name
-+ etc
++ Use Case 2:
 
-![image](https://github.com/user-attachments/assets/fa6583da-3988-47b0-af72-62adb1457995)
+Finding the node that is in same branch than current branch.
+
+![image](https://github.com/user-attachments/assets/ab46c9ca-9377-41b3-bcbd-7f4a1556dd8d)
 
 
+Here, I find the node that is in same branch than current branch.
+
+Thus, I see the following figure.
 
