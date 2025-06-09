@@ -31,9 +31,11 @@ Finding the node that is in different branch than current branch.
   
 Here, I find the desired node on different branch.
 
+![image](https://github.com/user-attachments/assets/4c6c438e-4820-4f2b-9760-8d88cfc4c82c)
+
 Thus I see the following of figure.
 
-![image](https://github.com/user-attachments/assets/4c6c438e-4820-4f2b-9760-8d88cfc4c82c)
+![image](https://github.com/user-attachments/assets/d9946b38-60b6-4e4a-9bed-2a22e5272f23)
 
 Including these info
 
@@ -49,7 +51,6 @@ Including these info
 Finding the node that is in same branch than current branch.
 
 ![image](https://github.com/user-attachments/assets/ab46c9ca-9377-41b3-bcbd-7f4a1556dd8d)
-
 
 Here, I find the node that is in same branch than current branch.
 
